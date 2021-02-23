@@ -152,12 +152,74 @@ namespace Ciss_222_Final_Project_Initial_ConsoleApp
          if (Password != password)
          {
             Console.WriteLine("The account password you entered is incorrect. " +
-               "Please try again.");
+                              "Please try again.");
          }
 
          else
          {
+            //Use a while & switch, come up with questions typical of bank accounts
+            string userInput = null;
+            while (userInput != "0")
+            {
+               Console.WriteLine("Please select from one of the following questions:");
+               Console.WriteLine("Please type the number of the desired question, or type 0 to cancel.");
+               Console.WriteLine("1. What city were you born in?\n" +
+                                 "2. What was the name of your first pet?\n" +
+                                 "3. What was the name of your first grade teacher?\n" +
+                                 "4. What was the name of your childhood best friend?\n" +
+                                 "5. What is your mother's maiden name?\n");
 
+               userInput = Console.ReadLine();
+
+               switch (userInput)
+               {
+                  case "0":
+                     Console.WriteLine("Your security question has not been changed.\n");
+                     break;
+
+                  case "1":
+                     securityQuestion = "What city were you born in?";
+                     break;
+                  case "2":
+                     securityQuestion = "What was the name of your first pet?";
+                     break;
+                  case "3":
+                     securityQuestion = "What was the name of your first grade teacher?";
+                     break;
+                  case "4":
+                     securityQuestion = "What was the name of your childhood best friend?";
+                     break;
+                  case "5":
+                     securityQuestion = "What is your mother's maiden name?";
+                     break;
+
+                  default:
+                     Console.WriteLine("Error: An invalid response has been entered." +
+                                       "Please try again.\n");
+                     break;
+               }
+
+               if (userInput == "1" || userInput == "2" || userInput == "3" || 
+                   userInput == "4" || userInput == "5")
+               {
+                  Console.WriteLine("Your security question has been successfully updated!\n");
+                  Console.WriteLine("Please provide an answer for the updated question: ");
+                  string securityAnswerAttempt = Console.ReadLine();
+
+                  if (string.IsNullOrEmpty(securityAnswerAttempt))
+                  {
+                     Console.WriteLine("Error: You did not enter a new answer to the security question!\n" +
+                           "Please try again. \n");
+                  }
+                  else
+                  {
+                     securityAnswer = securityAnswerAttempt;
+                  }
+
+                  userInput = "0";
+               }
+
+            }
          }
       }
 
