@@ -1,0 +1,12 @@
+C:\Users\Megan\source\repos\ciss-222-spring-2021-homework-6-mostrander\Homework6\obj\Debug\netcoreapp2.1\Homework6.AssemblyInfoInputs.cache
+C:\Users\Megan\source\repos\ciss-222-spring-2021-homework-6-mostrander\Homework6\obj\Debug\netcoreapp2.1\Homework6.AssemblyInfo.cs
+C:\Users\Megan\source\repos\ciss-222-spring-2021-homework-6-mostrander\Homework6\obj\Debug\netcoreapp2.1\Homework6.csproj.CoreCompileInputs.cache
+C:\Users\Megan\source\repos\ciss-222-spring-2021-homework-6-mostrander\Homework6\bin\Debug\netcoreapp2.1\Homework6.deps.json
+C:\Users\Megan\source\repos\ciss-222-spring-2021-homework-6-mostrander\Homework6\bin\Debug\netcoreapp2.1\Homework6.runtimeconfig.json
+C:\Users\Megan\source\repos\ciss-222-spring-2021-homework-6-mostrander\Homework6\bin\Debug\netcoreapp2.1\Homework6.runtimeconfig.dev.json
+C:\Users\Megan\source\repos\ciss-222-spring-2021-homework-6-mostrander\Homework6\bin\Debug\netcoreapp2.1\Homework6.dll
+C:\Users\Megan\source\repos\ciss-222-spring-2021-homework-6-mostrander\Homework6\bin\Debug\netcoreapp2.1\Homework6.pdb
+C:\Users\Megan\source\repos\ciss-222-spring-2021-homework-6-mostrander\Homework6\obj\Debug\netcoreapp2.1\Homework6.dll
+C:\Users\Megan\source\repos\ciss-222-spring-2021-homework-6-mostrander\Homework6\obj\Debug\netcoreapp2.1\Homework6.pdb
+C:\Users\Megan\source\repos\ciss-222-spring-2021-homework-6-mostrander\Homework6\obj\Debug\netcoreapp2.1\Homework6.genruntimeconfig.cache
+C:\Users\Megan\source\repos\ciss-222-spring-2021-homework-6-mostrander\Homework6\obj\Debug\netcoreapp2.1\Homework6.csprojAssemblyReference.cache
