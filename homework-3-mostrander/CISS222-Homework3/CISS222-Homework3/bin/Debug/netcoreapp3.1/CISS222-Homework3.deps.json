@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CISS222-Homework3/1.0.0": {
+        "runtime": {
+          "CISS222-Homework3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CISS222-Homework3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

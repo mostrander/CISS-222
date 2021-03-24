@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30711.63
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CISS222-Homework3", "CISS222-Homework3\CISS222-Homework3.csproj", "{EF192A43-793E-4894-B155-D0BE9692FB94}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF192A43-793E-4894-B155-D0BE9692FB94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF192A43-793E-4894-B155-D0BE9692FB94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF192A43-793E-4894-B155-D0BE9692FB94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF192A43-793E-4894-B155-D0BE9692FB94}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A617851A-EB2F-48AD-A946-7B0353CFC471}
+	EndGlobalSection
+EndGlobal
